@@ -1,5 +1,4 @@
 const input = document.querySelector("#name-input");
-console.log(input);
 const nameLabel = document.querySelector("#name-output");
 
 input.addEventListener("input", onInputChange);
